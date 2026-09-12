@@ -38,9 +38,12 @@ data/*.csv
 data/*.xlsx
 !data/.gitkeep
 
-# Demo video (large binary, keep local or link externally)
+# Demo video and narration production drafts (large/intermediate binaries,
+# keep local or link externally — final video goes on YouTube, see README)
 demo/*.mp4
 demo/*.mov
+demo/*.mp3
+demo/*.wav
 !demo/.gitkeep
 
 # Logs
