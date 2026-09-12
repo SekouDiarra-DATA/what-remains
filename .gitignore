@@ -45,3 +45,4 @@ demo/*.mov
 
 # Logs
 *.log
+.claude/
