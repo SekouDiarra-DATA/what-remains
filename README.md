@@ -15,6 +15,8 @@ _À compléter : ce que fait l'agent, pour qui, et pourquoi vivre dans ce contex
 
 _À compléter le jour J (dépend du starter kit fourni par les organisateurs et des outils sponsors retenus : OpenAI, CopilotKit, OpenRouter, Exa, Auth0, Trigger.dev, Mozilla.ai, Google Cloud Run, Ambiguous AI, Veris AI)._
 
+_Stack libre — le no-code/low-code (ex. n8n) est explicitement autorisé par le règlement si ça sert mieux le projet que du code Python/JS pur._
+
 ## Comment lancer le projet
 
 ```bash
