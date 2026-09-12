@@ -39,11 +39,12 @@ data/*.xlsx
 !data/.gitkeep
 
 # Demo video and narration production drafts (large/intermediate binaries,
-# keep local or link externally — final video goes on YouTube, see README)
-demo/*.mp4
-demo/*.mov
-demo/*.mp3
-demo/*.wav
+# keep local or link externally — final video goes on YouTube, see README).
+# Double-star so this also covers demo/production/ and its subfolders.
+demo/**/*.mp4
+demo/**/*.mov
+demo/**/*.mp3
+demo/**/*.wav
 !demo/.gitkeep
 
 # Logs
