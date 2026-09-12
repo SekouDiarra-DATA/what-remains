@@ -84,7 +84,7 @@ No third-party starter kit, template repository, or prior project was used as a 
 
 ## Demo video
 
-_Link added after recording._
+[Watch on YouTube](https://youtube.com/watch?v=_G-3qxbSdNg)
 
 ---
 
@@ -107,7 +107,9 @@ _Link added after recording._
 ## Hackathon submission checklist
 
 - [x] Project title
-- [ ] Written description (what, for whom, why the context matters) — see above, to finalize for the submission form
+- [x] Written description (what, for whom, why the context matters)
 - [x] Public GitHub repository with working code
-- [ ] 2-minute demo video
-- [ ] Public social media post tagging event sponsors
+- [x] 2-minute demo video
+- [x] Public social media post tagging event sponsors
+
+Submitted to the hackathon portal.
