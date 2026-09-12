@@ -1,7 +1,9 @@
-# Dépendances Python (à compléter le jour J selon la stack choisie)
-# Exemples possibles selon le starter kit fourni par les organisateurs :
-# openai
-# anthropic
-# python-dotenv
-# fastapi
-# uvicorn
+streamlit
+openai
+python-dotenv
+pandas
+requests
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+fpdf2

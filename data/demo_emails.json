@@ -1,0 +1,98 @@
+[
+  {
+    "id": "e1",
+    "date": "2025-11-02",
+    "from_name": "Netflix",
+    "from_email": "info@mailer.netflix.com",
+    "subject": "Welcome to Netflix — you're all set",
+    "body": "Hi,\n\nThanks for joining Netflix! Your Standard plan is now active.\nYou can start watching right away on any device.\n\nEnjoy the show.\nThe Netflix Team"
+  },
+  {
+    "id": "e2",
+    "date": "2026-07-15",
+    "from_name": "Netflix",
+    "from_email": "info@mailer.netflix.com",
+    "subject": "Your Netflix plan price is changing",
+    "body": "Hi,\n\nStarting with your next billing date, your Standard plan will increase from $13.99 to $15.49 per month.\nNo action is needed if you'd like to keep your current plan.\n\nThe Netflix Team"
+  },
+  {
+    "id": "e3",
+    "date": "2026-08-28",
+    "from_name": "Netflix",
+    "from_email": "info@mailer.netflix.com",
+    "subject": "Your Netflix payment receipt",
+    "body": "Hi,\n\nYour monthly Netflix subscription payment of $15.49 was successful.\nNext billing date: October 12, 2026.\n\nThanks for being a member.\nThe Netflix Team"
+  },
+  {
+    "id": "e4",
+    "date": "2026-09-01",
+    "from_name": "Northgate Insurance",
+    "from_email": "billing@northgateinsurance.com",
+    "subject": "Your automatic payment was processed",
+    "body": "Dear Customer,\n\nThis confirms your scheduled automatic payment of $89.00 for your home insurance policy #HI-58213 has been processed successfully.\n\nYour next payment is scheduled for November 1, 2026.\n\nRegards,\nNorthgate Insurance"
+  },
+  {
+    "id": "e5",
+    "date": "2025-03-10",
+    "from_name": "Google One",
+    "from_email": "google-one-noreply@google.com",
+    "subject": "Welcome to Google One",
+    "body": "Hi,\n\nThanks for upgrading to Google One. Your 200GB storage plan is now active, giving you more room for photos, backups, and files across your Google Account.\n\nThe Google One Team"
+  },
+  {
+    "id": "e6",
+    "date": "2026-09-03",
+    "from_name": "Google One",
+    "from_email": "google-one-noreply@google.com",
+    "subject": "Your Google One storage plan renewed",
+    "body": "Hi,\n\nYour Google One 200GB plan has renewed for $2.99/month.\nYour files, photos, and backups remain safely stored.\n\nManage your subscription anytime in your account settings."
+  },
+  {
+    "id": "e7",
+    "date": "2026-09-05",
+    "from_name": "FitZone Gym",
+    "from_email": "billing@fitzonegym.com",
+    "subject": "Your monthly membership payment receipt",
+    "body": "Hello,\n\nThank you for your payment of $45.00 for your monthly membership at FitZone Gym. Your membership auto-renews on the 15th of every month.\n\nSee you at the gym!"
+  },
+  {
+    "id": "e8",
+    "date": "2026-08-15",
+    "from_name": "Adobe",
+    "from_email": "message@adobe.com",
+    "subject": "Your Adobe Creative Cloud subscription receipt",
+    "body": "Hi,\n\nYour annual Adobe Creative Cloud subscription has been renewed.\nAmount charged: $239.88 for the year.\nNext renewal: August 2027."
+  },
+  {
+    "id": "e9",
+    "date": "2026-07-20",
+    "from_name": "StyleHub",
+    "from_email": "deals@stylehub-promo.com",
+    "subject": "50% off your next order — today only!",
+    "body": "Hey there!\n\nWe noticed it's been a while. Come back and enjoy 50% off your next purchase at StyleHub. This offer expires tonight!\n\nShop now."
+  },
+  {
+    "id": "e10",
+    "date": "2026-06-10",
+    "from_name": "YogaFlow Studio",
+    "from_email": "hello@yogaflowstudio.com",
+    "subject": "We miss you at YogaFlow",
+    "body": "Hi,\n\nIt's been a few months since your last class. Your account is still active — come back anytime, no payment required to rejoin a session."
+  },
+  {
+    "id": "e11",
+    "date": "2024-05-18",
+    "from_name": "Spotify",
+    "from_email": "no-reply@spotify.com",
+    "subject": "Welcome to Spotify Premium",
+    "body": "Hi,\n\nYou're now a Spotify Premium subscriber. Enjoy ad-free music, offline downloads, and unlimited skips.\n\nThe Spotify Team"
+  },
+  {
+    "id": "e12",
+    "date": "2026-08-20",
+    "from_name": "Spotify",
+    "from_email": "no-reply@spotify.com",
+    "subject": "Your Spotify Premium receipt",
+    "body": "Hi,\n\nYour monthly Spotify Premium payment of $11.99 was successful.\nYour subscription will automatically renew on September 20, 2026.\n\nThe Spotify Team"
+  }
+]

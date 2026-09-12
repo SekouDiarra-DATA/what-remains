@@ -1,0 +1,174 @@
+[
+  {
+    "service_name": "Netflix",
+    "category": "subscription",
+    "status": "certain",
+    "urgency": "medium",
+    "evidence": "The account has an active subscription with a confirmed payment receipt.",
+    "reasoning": "The presence of a payment receipt indicates an ongoing subscription.",
+    "history_summary": "The account started on November 2, 2025, with a price change effective from the next billing date.",
+    "source_email_ids": [
+      "e1",
+      "e2",
+      "e3"
+    ],
+    "source_emails": [
+      {
+        "date": "2025-11-02",
+        "subject": "Welcome to Netflix \u2014 you're all set"
+      },
+      {
+        "date": "2026-07-15",
+        "subject": "Your Netflix plan price is changing"
+      },
+      {
+        "date": "2026-08-28",
+        "subject": "Your Netflix payment receipt"
+      }
+    ],
+    "last_email_date": "2026-08-28"
+  },
+  {
+    "service_name": "Northgate Insurance",
+    "category": "financial",
+    "status": "certain",
+    "urgency": "high",
+    "evidence": "An automatic payment of $89.00 for home insurance was processed.",
+    "reasoning": "This indicates an ongoing financial obligation that requires attention.",
+    "history_summary": "The account has an automatic payment scheduled for November 1, 2026.",
+    "source_email_ids": [
+      "e4"
+    ],
+    "source_emails": [
+      {
+        "date": "2026-09-01",
+        "subject": "Your automatic payment was processed"
+      }
+    ],
+    "last_email_date": "2026-09-01"
+  },
+  {
+    "service_name": "Google One",
+    "category": "cloud_storage",
+    "status": "certain",
+    "urgency": "medium",
+    "evidence": "The account has an active 200GB storage plan with a monthly renewal confirmation.",
+    "reasoning": "The renewal notice indicates an ongoing paid subscription, which requires attention.",
+    "history_summary": "The account started on March 10, 2025, and the most recent payment was on September 3, 2026.",
+    "source_email_ids": [
+      "e5",
+      "e6"
+    ],
+    "source_emails": [
+      {
+        "date": "2025-03-10",
+        "subject": "Welcome to Google One"
+      },
+      {
+        "date": "2026-09-03",
+        "subject": "Your Google One storage plan renewed"
+      }
+    ],
+    "last_email_date": "2026-09-03"
+  },
+  {
+    "service_name": "FitZone Gym",
+    "category": "membership",
+    "status": "certain",
+    "urgency": "medium",
+    "evidence": "The emails confirm a recurring monthly membership payment of $45.00.",
+    "reasoning": "The account shows clear evidence of an active paid membership.",
+    "history_summary": "The membership started with a payment on September 5, 2026, and auto-renews monthly.",
+    "source_email_ids": [
+      "e7"
+    ],
+    "source_emails": [
+      {
+        "date": "2026-09-05",
+        "subject": "Your monthly membership payment receipt"
+      }
+    ],
+    "last_email_date": "2026-09-05"
+  },
+  {
+    "service_name": "Adobe Creative Cloud",
+    "category": "subscription",
+    "status": "certain",
+    "urgency": "medium",
+    "evidence": "The annual subscription was renewed with a charge of $239.88.",
+    "reasoning": "This indicates an active paid subscription that requires attention.",
+    "history_summary": "The subscription was renewed on August 15, 2026, for the next year.",
+    "source_email_ids": [
+      "e8"
+    ],
+    "source_emails": [
+      {
+        "date": "2026-08-15",
+        "subject": "Your Adobe Creative Cloud subscription receipt"
+      }
+    ],
+    "last_email_date": "2026-08-15"
+  },
+  {
+    "service_name": "StyleHub",
+    "category": "other",
+    "status": "uncertain",
+    "urgency": "low",
+    "evidence": "The email offers a promotional discount with no evidence of a paid account.",
+    "reasoning": "There is no billing or subscription information present in the emails.",
+    "history_summary": "Only a promotional email was found, with no account activity recorded.",
+    "source_email_ids": [
+      "e9"
+    ],
+    "source_emails": [
+      {
+        "date": "2026-07-20",
+        "subject": "50% off your next order \u2014 today only!"
+      }
+    ],
+    "last_email_date": "2026-07-20"
+  },
+  {
+    "service_name": "YogaFlow Studio",
+    "category": "membership",
+    "status": "uncertain",
+    "urgency": "low",
+    "evidence": "The account is still active, but no payment history is provided.",
+    "reasoning": "There is no clear evidence of a recurring paid membership.",
+    "history_summary": "The last class attended was a few months prior to June 2026.",
+    "source_email_ids": [
+      "e10"
+    ],
+    "source_emails": [
+      {
+        "date": "2026-06-10",
+        "subject": "We miss you at YogaFlow"
+      }
+    ],
+    "last_email_date": "2026-06-10"
+  },
+  {
+    "service_name": "Spotify",
+    "category": "subscription",
+    "status": "certain",
+    "urgency": "medium",
+    "evidence": "The account shows a successful payment receipt for a Spotify Premium subscription.",
+    "reasoning": "This indicates an active paid subscription that requires attention.",
+    "history_summary": "The account started on May 18, 2024, with a payment of $11.99 confirmed on August 20, 2026.",
+    "source_email_ids": [
+      "e11",
+      "e12"
+    ],
+    "source_emails": [
+      {
+        "date": "2024-05-18",
+        "subject": "Welcome to Spotify Premium"
+      },
+      {
+        "date": "2026-08-20",
+        "subject": "Your Spotify Premium receipt"
+      }
+    ],
+    "last_email_date": "2026-08-20"
+  }
+]

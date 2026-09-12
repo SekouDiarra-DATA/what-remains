@@ -1,0 +1,41 @@
+{
+  "netflix": {
+    "display_name": "Netflix",
+    "steps": [
+      "Sign in at netflix.com on a web browser (cancellation is not available in the mobile app).",
+      "Go to Account, then select Cancel Membership under Membership & Billing.",
+      "Confirm the cancellation. Access continues until the end of the current billing period."
+    ],
+    "url": "https://www.netflix.com/cancelplan",
+    "note": "Steps may vary slightly by region or account type \u2014 verify directly before proceeding."
+  },
+  "google one": {
+    "display_name": "Google One",
+    "steps": [
+      "Sign in at one.google.com with the account's credentials.",
+      "Open Settings, then Manage subscription.",
+      "Select Cancel subscription and confirm. Files above the free storage limit may become read-only after cancellation \u2014 check before proceeding."
+    ],
+    "url": "https://one.google.com/storage",
+    "note": "Cancelling may affect access to stored files if usage exceeds the free tier \u2014 review storage contents first."
+  },
+  "adobe": {
+    "display_name": "Adobe Creative Cloud",
+    "steps": [
+      "Sign in at account.adobe.com.",
+      "Go to Plans, then select Manage plan next to the active subscription.",
+      "Select Cancel plan and follow the confirmation steps. An early-cancellation fee may apply depending on the plan terms."
+    ],
+    "url": "https://account.adobe.com/plans",
+    "note": "Annual plans may involve a cancellation fee \u2014 verify the specific plan terms before proceeding."
+  },
+  "spotify": {
+    "display_name": "Spotify",
+    "steps": [
+      "Go to your account page and select Manage your plan.",
+      "Choose Cancel subscription and follow the prompts."
+    ],
+    "url": "https://support.spotify.com/us/article/cancel-premium/",
+    "note": "Steps may vary by region, plan type, or may have changed, so verify directly before proceeding."
+  }
+}
